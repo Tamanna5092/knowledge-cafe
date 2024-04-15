@@ -18,7 +18,7 @@ const Blog = ({blog, handleAddToBookmarks, handleMarkAsRead}) => {
                     <span>{reading_time} min read</span>
                     <button
                     onClick={()=>handleAddToBookmarks(blog)}
-                    className='text-2xl text-red-600 ml-2'
+                    className='text-2xl text-red-600 ml-2 mt-10'
                     ><FaBookmark></FaBookmark></button>
                 </div>
             </div>
