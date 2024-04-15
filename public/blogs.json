@@ -7,7 +7,7 @@
       "author": "Dr. Stella Cosmos",
       "post_date": "April 10, 2024",
       "reading_time": 8,
-      "hashtags": ["#SpaceExploration", "#Astrophysics", "#GalacticMysteries"]
+      "hashtags": ["#JavaScript", "#React", "#ES6"]
     },
     {
       "id": 2,
@@ -17,7 +17,7 @@
       "author": "Professor Botanica Greenleaf",
       "post_date": "April 12, 2024",
       "reading_time": 6,
-      "hashtags": ["#Botany", "#Art", "#Illustration"]
+      "hashtags": ["#WebDevelopment", "#Programming", "#WebDev"]
     },
     {
       "id": 3,
@@ -27,7 +27,7 @@
       "author": "Dr. Indiana Archaeologist",
       "post_date": "April 15, 2024",
       "reading_time": 10,
-      "hashtags": ["#Archaeology", "#History", "#Civilizations"]
+      "hashtags": ["#ReactJS", "#FrontEndDeveloper"]
     },
     {
       "id": 4,
@@ -37,7 +37,7 @@
       "author": "Chef Julia Flavor",
       "post_date": "April 18, 2024",
       "reading_time": 7,
-      "hashtags": ["#Cooking", "#Recipes", "#Foodie"]
+      "hashtags": [ "#JS", "#UI", "#UX", "#Developer"]
     },
     {
       "id": 5,
@@ -47,7 +47,7 @@
       "author": "Dr. Mindy Zen",
       "post_date": "April 20, 2024",
       "reading_time": 9,
-      "hashtags": ["#Meditation", "#Mindfulness", "#Neuroscience"]
+      "hashtags": ["#NodeJS",  "#Framework", "#Frontend"]
     }
   ]
   

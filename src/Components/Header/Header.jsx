@@ -1,4 +1,4 @@
-import React from 'react';
+
 import profile from '../../../../images/profile.png';
 
 const Header = () => {
